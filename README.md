@@ -12,7 +12,7 @@ a foundation for predictive modeling in subsequent phases.
 ## Business Problem
 Rising loan defaults are impacting a financial institution's profitability. 
 The goal is to analyze historical loan data to identify which borrower 
-characteristics and loan attributes most reliably predict default — enabling 
+characteristics and loan attributes most reliably predict default enabling 
 more informed credit decisions and a refined loan approval process.
 
 ## Methodology
