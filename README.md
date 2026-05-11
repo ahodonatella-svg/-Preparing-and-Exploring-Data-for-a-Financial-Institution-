@@ -23,9 +23,9 @@ more informed credit decisions and a refined loan approval process.
 - Split data into training and testing sets for future modeling
 
 **Phase 2: Exploratory Data Analysis (EDA)**
-- Histograms to examine feature distributions — notable right skew in age, 
+- Histograms to examine feature distributions - notable right skew in age, 
   income, and employment length
-- Correlation heatmap — strongest relationship between person_age and 
+- Correlation heatmap - strongest relationship between person_age and 
   credit history length (0.88)
 - Pair plots to detect multicollinearity
 - Bivariate analysis comparing each feature against loan default status
